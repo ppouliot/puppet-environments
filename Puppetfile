@@ -1,1 +1,1 @@
-# A Puppetfile for Production
+# A Puppetfile for Development Environments
