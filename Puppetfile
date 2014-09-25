@@ -1,1 +1,1 @@
-# A Puppetfile for Development Environments
+# A Puppetfile for Testing Environments
